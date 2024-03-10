@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prabu Jayant</h1>
-<h3 align="center">ML and Cybersecurity Enthusiast</h3>
+<h3 align="center">RVCE Sophomore | ML and Cybersecurity Enthusiast</h3>
 
 - 🔭 I’m currently working on **Federated learning**
 
