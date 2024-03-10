@@ -1,7 +1,7 @@
 <img src="https://github.com/Prabu1717/Prabu1717/blob/main/Blue%20and%20White%20Geometric%20Modern%20Personal%20LinkedIn%20Banner.png">
 <h1 align="center">Hi 👋, I'm Prabu Jayant</h1>
 <h3 align="center">RVCE Sophomore | ML and Cybersecurity Enthusiast</h3>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Fillustration%2Fdeveloper-working-in-office-6494563&psig=AOvVaw3e8ONwfkTV5qb4d0GI3tw2&ust=1710173621904000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNj9-qyL6oQDFQAAAAAdAAAAABAD" alt="Image description" align="right">
+<img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Fillustration%2Fdeveloper-working-in-office-6494563&psig=AOvVaw3e8ONwfkTV5qb4d0GI3tw2&ust=1710173621904000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNj9-qyL6oQDFQAAAAAdAAAAABAD](https://www.sardonyx.in/themes/images/software-development/sardonyx-softwaredevelopment001.gif)" alt="Image description" align="right">
 
 - 🔭 I’m currently working on **Federated learning**
 
