@@ -1,7 +1,8 @@
 <img src="https://github.com/Prabu1717/Prabu1717/blob/main/Blue%20and%20White%20Geometric%20Modern%20Personal%20LinkedIn%20Banner.png">
 <h1 align="center">Hi 👋, I'm Prabu Jayant</h1>
 <h3 align="center">RVCE Sophomore | ML and Cybersecurity Enthusiast</h3>
-<img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Fillustration%2Fdeveloper-working-in-office-6494563&psig=AOvVaw3e8ONwfkTV5qb4d0GI3tw2&ust=1710173621904000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNj9-qyL6oQDFQAAAAAdAAAAABAD](https://www.sardonyx.in/themes/images/software-development/sardonyx-softwaredevelopment001.gif)" alt="Image description" align="right">
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARsAAACyCAMAAABFl5uBAAAB/lBMVEX///8tF2r+diRdIdGWi7T+upFVR4IqEmnIvuxTAM7+3clZFND/eCH38P+8muj+uo9HPXr+1sGMbdqhjOD9cxb+ro6smeT9tYmhi+P9aADv4ef/fBtKRYX+fzX+qnknDWZCF5oeAGPu5/0aDmtURIdMCtiXRUrqp5W3mvEAAFqRhbFSKGHZZTQAAHCEIOf95ufi3+oAAGD2cyT/wZLs6vIAAGgAAEqimrnV0eGspcLEv9ObbuvqoIzRn6+kTkYlAHRHNnppXZB2a5q+uM7knpZkIsz+6eDAWT3n3fpoANOPhav99vK4hvQSC21rMlvnbSvLXzmBPVI4G2b+xKj9ikliLl7/eQCne4XPyOJ7Z6ZgSJRvPMJwRrB0P7pePZw6HYTczfSVg8FeUJK8sNk9KXqUespkSaI3HHujlsmFcbaKfbJZT4RnX4uMeMBXQJjHseZ3cJaAWrf
+
 
 - 🔭 I’m currently working on **Federated learning**
 
